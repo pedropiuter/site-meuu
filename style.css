@@ -1,0 +1,48 @@
+body{
+background-color: lightblue;
+margin: 0;
+padding:0;
+
+}
+h1{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 700%;
+   font-family: monospace;
+   color: rgb(82, 181, 228);
+    
+}
+ul{
+    text-align: center;
+    font-size: 200%;
+    background-color: rgb(104, 198, 214);
+}
+h2{
+    text-align: center;
+    font-size: 400%;
+    background-color: rgb(77, 166, 218);
+}
+tbody{
+    text-align: center;
+    font-size: 200%;
+}
+    section ul{
+        text-align: center;
+        font-size: 200%;
+    }
+    
+    table {
+       
+        font-size: 150%;
+        border-color: rgb(84, 175, 228);
+    }
+     p{
+    text-align: center;
+    font-size: 200%;
+}
+a{
+    text-align:center;
+}
+li{
+    background-color: white;
+}
